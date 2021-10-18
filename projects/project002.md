@@ -18,7 +18,8 @@ Celem tego projektu jest napisanie symulacji/wizualizacji modelu Isinga 2D metod
 
 ## Skrypt zwraca:
 - sekwencję obrazków zapisanych na dysku z kolejnymi krokami symulacji
-- *(opcjonalnie)* plik z magnetyzacją w funkcji kroku
+- *(opcjonalnie)* plik z magnetyzacją w funkcji kroku (nazwa opcjonalnym parametrem skryptu)
+- *(bardzo opcjonalnie)* filmik z animacją (nazwa opcjonalnym parametrem skryptu)
 
 ## Wymagania:
 - symulacja ma być zaimplementowana jako obiekt
