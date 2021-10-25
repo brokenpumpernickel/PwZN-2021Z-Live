@@ -8,10 +8,10 @@
 Celem tego projektu jest napisanie symulacji/wizualizacji modelu Isinga 2D metodą Monte Carlo.
 
 ## Skrypt przyjmuje jako parametry:
-- rozmiar siatki
+- rozmiar siatki ($n\times n$)
 - wartość $J$
 - parametr $\beta$
-- wartość pola $H$
+- wartość pola $B$
 - liczbę kroków symulacji (1 krok oznacza $1\cdot$ liczba spinów)
 - *(opcjonalny parametr)* początkową gęstość spinów $\uparrow$ (domyślnie 0.5)
 - *(opcjonalny parametr)* nazwy pliku z obrazkami (domyślnie *step*)
