@@ -12,6 +12,9 @@ Pillow = "^8.4.0"
 requests = "^2.26.0"
 bs4 = "^0.0.1"
 selenium = "^4.0.0"
+bokeh = "^2.4.1"
+pandas = "^1.3.4"
+jupyterlab = "^3.2.3"
 
 [tool.poetry.dev-dependencies]
 pytest = "^5.2"
