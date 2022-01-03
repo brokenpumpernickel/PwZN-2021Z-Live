@@ -2,7 +2,7 @@ import multiprocessing as mp
 import os
 import time
 import functools
-from concurrent.futures import ProcessPoolExecutor
+from concurrent.futures import ProcessPoolExecutor, ThreadPoolExecutor
 from concurrent.futures import Future
 
 def fibon(n):
