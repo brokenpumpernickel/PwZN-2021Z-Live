@@ -5,7 +5,7 @@
 
 ## Opis
 
-Cel tego projektu jest zapoznanie się z biblioteką [NetworkX](https://networkx.org/) i przeprowadzenie podstawowej analizy wybranej sieci pobranej ze [Stanford Large Network Dataset Collection](https://snap.stanford.edu/data/#road).
+Cel tego projektu jest zapoznanie się z biblioteką [NetworkX](https://networkx.org/) i przeprowadzenie podstawowej analizy wybranej sieci pobranej ze [Stanford Large Network Dataset Collection](https://snap.stanford.edu/data/).
 
 ## Skrypt wyznacza:
 
