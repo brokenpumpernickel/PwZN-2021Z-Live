@@ -11,6 +11,7 @@ Cel tego projektu jest zapoznanie się z biblioteką [NetworkX](https://networkx
 
 - rozkład stopni wierzchołków
 - rozkład i liczbę spójnych składowych
+- najkrótsza ścieżka
 - wizualizację sieci (czyli trzeba sieć narysować)
 
 
