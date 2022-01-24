@@ -9,9 +9,9 @@ Cel tego projektu jest zapoznanie się z biblioteką [NetworkX](https://networkx
 
 ## Skrypt wyznacza:
 
-- rozkład stopni wierzchołków
-- rozkład i liczbę spójnych składowych
-- najkrótsza ścieżka
+- rozkład stopni wierzchołków (wykres)
+- rozkład (ile węzłów w każdej składowej) i liczbę spójnych składowych
+- najkrótsza ścieżka (średnia); dla małych siecie, albo zobaczyć, czy jest metoda przybliżona
 - wizualizację sieci (czyli trzeba sieć narysować)
 
 
